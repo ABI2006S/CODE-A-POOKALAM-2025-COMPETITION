@@ -10,7 +10,7 @@
 ### Description
 This Pookalam design is inspired by traditional floral patterns with a modern artistic touch. The arrangement uses concentric rings, layered petals, and decorative elements to create a visually balanced and vibrant layout. The outer ring features a colorful checker pattern, while soft gradient circles and ambient decorations fill the space between the outer ring and petals, giving the design depth without disturbing the central elements. The design focuses on harmony, symmetry, and subtle color transitions to enhance the festive and elegant feel of the Pookalam.
 ### Preview
-output/pookalam-preview.png
+![My Pookalam](output/pookalam-preview.png)
 ### Features
 Beautifully layered floral patterns with smooth gradients and vibrant colors.
 Ambient decoration between the outer ring and petals without disturbing the inner design.
