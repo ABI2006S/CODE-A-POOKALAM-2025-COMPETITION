@@ -23,7 +23,7 @@ Polished visual effects with attention to detail, balance, and aesthetics.
    - Download from https://www.python.org/downloads/ .
    - Install and check “Add Python to PATH”.
 2. **Install VS Code**
-   - Download from https://code.visualstudio.com/](https://code.visualstudio.com/ .
+   - Download from https://code.visualstudio.com/ .
    - Install and add the **Python extension** from the Extensions tab.
 3. **Open the File**
    - Save the code as `pookalam.py`.
