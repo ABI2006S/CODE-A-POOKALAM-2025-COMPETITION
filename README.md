@@ -52,7 +52,7 @@ python pookalam.py
 ```
 Code-a-Pookalam-2025/
 ├── README.md (this file)
-├── pookalam.py (or your main file)
+├── pookalam.py 
 └── output/pookalam-preview.png
 └── output/design.mp4
 
