@@ -59,5 +59,4 @@ Code-a-Pookalam-2025/
 ```
 ## 🎊 Happy Onam! 🎊
 *Submitted for Code-a-Pookalam 2025 by TinkerHub RIT*
-After completing your submission, share it on social media with:
-**#CodeAPookalam2025 #TinkerHubRIT #Onam2025 #CodingChallenge**
+
